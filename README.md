@@ -1,2 +1,2 @@
 # Walmart_Sales_Project
-SQL project for Walmart Sales 
+Welcome to my small little Walmart sales project. It includes a couple of views.
